@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c161d91d-d75c-48da-9270-a727c9e0cc8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/luhn_ruby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/luhn_ruby.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/luhn_ruby/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luhn_ruby.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sig/luhn_ruby.rbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_luhn_ruby.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/luhn_ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/luhn_ruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luhn_ruby.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/luhn_ruby.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_luhn_ruby.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_luhn_ruby.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713489325855</updated>
       <workItem from="1713489326872" duration="273000" />
-      <workItem from="1713489630935" duration="1093000" />
+      <workItem from="1713489630935" duration="3107000" />
     </task>
     <servers />
   </component>
