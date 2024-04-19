@@ -13,7 +13,7 @@ describe Luhn do
     "5555555555554444", "5105105105105100", "4111111111111111", "4012888888881881", "5610591081018250",
     "4222222222222", "5019717010103742", "6331101999990016", "6304000000000000", "36259600000004",
     "4000001234562345678"
-  ]
+  ] # taken from popular test cards
 
   it "returns true for valid card numbers" do
     assert ValidCardNumbers.all? { |number| Luhn.valid?(number) }

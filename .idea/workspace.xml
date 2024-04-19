@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c161d91d-d75c-48da-9270-a727c9e0cc8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/luhn_ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/luhn_ruby.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luhn_ruby.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/luhn_ruby.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/luhn_ruby.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/luhn.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_luhn_ruby.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_luhn_ruby.rb" afterDir="false" />
     </list>
@@ -57,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713489325855</updated>
       <workItem from="1713489326872" duration="273000" />
-      <workItem from="1713489630935" duration="3107000" />
+      <workItem from="1713489630935" duration="4035000" />
     </task>
     <servers />
   </component>
