@@ -3,7 +3,7 @@
 require_relative "lib/luhn_ruby/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "luhn_ruby"
+  spec.name = "quick_luhn_ruby"
   spec.version = Luhn::VERSION
   spec.authors = ["Bilash Saha"]
   spec.email = ["bilashsaha03@gmail.com"]

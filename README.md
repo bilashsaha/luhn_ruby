@@ -1,4 +1,4 @@
-# luhn-ruby
+# quick_luhn_ruby
 
 Very simple library to calculate and validate Luhn numbers .
 
