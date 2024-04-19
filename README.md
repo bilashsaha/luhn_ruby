@@ -6,7 +6,7 @@ Very simple library to calculate and validate Luhn numbers .
 
 Add to your Gemfile:
 
-    gem 'luhn_ruby'
+    gem 'quick_luhn_ruby'
 
 And then :
 
@@ -14,7 +14,7 @@ And then :
 
 Or install it:
 
-    $ gem install luhn-ruby
+    $ gem install quick_luhn_ruby
 
 ## Usage
 
