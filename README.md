@@ -4,15 +4,15 @@ Very simple library to calculate and validate Luhn numbers .
 
 ## Installation
 
-Add this line to your Gemfile:
+Add to your Gemfile:
 
     gem 'luhn_ruby'
 
-And then execute:
+And then :
 
     $ bundle
 
-Or install it yourself as:
+Or install it:
 
     $ gem install luhn-ruby
 
