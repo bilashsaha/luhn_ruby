@@ -20,11 +20,10 @@ Or install it:
 
 ``` ruby
 require 'luhn'
-
 number = '4111111111111111'
-
-Luhn.valid? number
-# => true
+Luhn.valid? number # => true
+number = '4111111111111112'
+Luhn.valid? number # => false
 ```
 
 ## Contributing
